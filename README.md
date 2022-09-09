@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![alt text](https://github.com/usmanshaikh/usmanshaikh/blob/main/CoverPhoto.png)
+
+
 <!--
 **usmanshaikh/usmanshaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
