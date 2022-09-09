@@ -1,7 +1,6 @@
 ![alt text](https://github.com/usmanshaikh/usmanshaikh/blob/main/CoverPhoto.png)
 
-I &lt;code&gt; what's your superpower?
-
+<h3 align="center">⚡ I &lt;code&gt; what's your superpower? ⚡</h3>
 
 <!--
 **usmanshaikh/usmanshaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
