@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![alt text](https://github.com/usmanshaikh/usmanshaikh/blob/main/CoverPhoto.png)
 
 
