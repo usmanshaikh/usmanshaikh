@@ -16,15 +16,16 @@ I'm a full-stack developer from India, driven by the desire to build real-world 
 
 ### Frontend:
 - **React**, **Angular**, **TypeScript**, **JavaScript**
+- **React Native**
 - **Redux Toolkit**
-- **GraphQL (Apollo Client)** 
+- **GraphQL (Apollo Client)**
 - **HTML**, **CSS**, **SASS**, **jQuery**
 
 ### Backend:
 - **Node.js**, **Express.js**
 - **MongoDB**, **Mongoose**
-- **PostgreSQL**
-- **GraphQL (Apollo Server)** 
+- **PostgreSQL** with **Prisma** (ORM for PostgreSQL)
+- **GraphQL (Apollo Server)**
 - **AWS Serverless** (API Gateway, Lambda)
 
 ### DevOps (Familiar):
