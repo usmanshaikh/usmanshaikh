@@ -33,6 +33,18 @@ I'm a full-stack developer from India, driven by the desire to build real-world 
 
 ---
 
+## 🌟 Freelance Projects
+
+Here are some of the freelance projects I’ve had the pleasure of working on:
+
+- [Galerie Isa](https://galerieisa.com/) - A platform showcasing fine art and exhibitions.
+- [Enova Entertainment](https://enovaentertainment.com/) - Entertainment services specializing in events and productions.
+- [Mirra Luxe](https://www.mirrawluxe.com/) - A luxury brand offering premium lifestyle products.
+- [TRRAIN](https://trrain.org/) - Non-profit organization focused on empowering retail professionals.
+- [TrunkWorks Games](https://www.trunkworksgames.in/) - A gaming company offering immersive experiences.
+
+---
+
 ## 💼 Get In Touch
 
 - 📧 Email: [shaikhusman57@gmail.com](mailto:shaikhusman57@gmail.com)
