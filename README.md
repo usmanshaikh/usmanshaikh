@@ -1,4 +1,4 @@
-![alt text](https://github.com/usmanshaikh/usmanshaikh/blob/main/CoverPhoto.png)
+![alt text](https://github.com/usmanshaikh/usmanshaikh/blob/main/CoverPhotoV2.png)
 
 # Hi, I'm Usman! 👋
 
