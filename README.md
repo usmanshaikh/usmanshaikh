@@ -23,14 +23,14 @@ I'm a full-stack developer from India, driven by the desire to build real-world 
 
 ### Backend:
 - **Node.js**, **Express.js**
-- **MongoDB**, **Mongoose**
-- **PostgreSQL** with **Prisma** (ORM for PostgreSQL)
+- **MongoDB** with **Mongoose**
+- **PostgreSQL** with **Prisma**
 - **GraphQL (Apollo Server)**
 - **AWS Serverless** (API Gateway, Lambda)
 
-### DevOps (Familiar):
-- **Docker** for containerization
-- **AWS CodePipeline/CodeBuild** for CI/CD automation
+### CI/CD (Familiar):
+- **Docker**
+- **AWS CodePipeline/CodeBuild**
 
 ---
 
