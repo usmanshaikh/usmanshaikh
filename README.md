@@ -2,13 +2,14 @@
 
 # Hi, I'm Usman! 👋
 
-Welcome to my GitHub profile! I'm a passionate **MEAN** & **MERN** stack developer, specializing in building scalable, dynamic web applications using modern technologies like Node.js, React, MongoDB, and GraphQL. I'm always up for new challenges that allow me to grow and innovate.
 
 ---
 
 ## 🚀 About Me
 
-I'm a full-stack developer from India, driven by the desire to build real-world solutions. With experience in both frontend and backend development, I focus on creating applications that are not only functional but also efficient and user-friendly. Currently, I'm deepening my knowledge in **Docker** and **cloud-based deployments** (AWS) to further enhance my skill set.
+I'm a full-stack developer from India, driven by the desire to build real-world solutions. With experience in both frontend and backend development, I focus on creating applications that are not only functional but also efficient and user-friendly.  
+
+Currently, I'm deepening my knowledge in **NestJS, Next.js, AWS services, and Docker**, learning and working on projects that leverage these technologies to build scalable and robust applications.  
 
 ---
 
