@@ -1,15 +1,10 @@
 ![alt text](https://github.com/usmanshaikh/usmanshaikh/blob/main/CoverPhotoV2.png)
 
-# Hi, I'm Usman! 👋
+# **Hi, I'm Usman!** 👋  
 
+I'm a full-stack developer from India, passionate about building real-world solutions. With experience in both frontend and backend development, I focus on creating applications that are not only functional but also efficient and user-friendly.  
 
----
-
-## 🚀 About Me
-
-I'm a full-stack developer from India, driven by the desire to build real-world solutions. With experience in both frontend and backend development, I focus on creating applications that are not only functional but also efficient and user-friendly.  
-
-Currently, I'm deepening my knowledge in **NestJS, Next.js, AWS services, and Docker**, learning and working on projects that leverage these technologies to build scalable and robust applications.  
+Currently, I'm expanding my expertise in **NestJS, Next.js, AWS services, and Docker**, learning these technologies to strengthen my skill set and prepare for future projects.
 
 ---
 
