@@ -10,21 +10,24 @@ Currently, I'm expanding my expertise in **NestJS, Next.js, AWS services, and Do
 
 ## 🧰 Tech Stack
 
-### Frontend:
-- **React**, **Angular**, **TypeScript**, **JavaScript**, **Redux**
-- **HTML**, **CSS**, **SASS**, **jQuery**
-- **GraphQL (Apollo Client)**
+### 💻 Frontend
 
-### Backend:
-- **Node.js**, **Express.js**
-- **GraphQL (Apollo Server)**
-- **MongoDB** with **Mongoose**
-- **PostgreSQL** with **Prisma** (Familiar)
-- **AWS Serverless** (API Gateway, Lambda)
+* **React**, **Next.js**, **Angular**, **Redux**, **TypeScript**, **JavaScript**
+* **HTML5**, **CSS3**, **SASS**, **jQuery**
+* **GraphQL** (Apollo Client)
 
-### CI/CD (Familiar):
-- **Docker**
-- **AWS CodePipeline/CodeBuild**
+### 🛠️ Backend
+
+* **Node.js**, **Express.js**
+* **GraphQL** (Apollo Server)
+* **MongoDB** (with **Mongoose**)
+* **PostgreSQL** (with **Prisma** – *Familiar*)
+* **AWS Serverless** – *API Gateway, Lambda*
+
+### 🚀 CI/CD & DevOps *(Familiar)*
+
+* **Docker**
+* **AWS CodePipeline**, **CodeBuild**
 
 ---
 
